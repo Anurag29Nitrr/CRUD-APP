@@ -77,13 +77,10 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or support, please reach out to [your-email@example.com].
+For any questions or support, please reach out to [anuragbhilai99@gmail.com].
 ```
 
 This version ensures all instructions are contained within a continuous code block, with no extra line breaks disrupting the flow.
